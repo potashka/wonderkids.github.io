@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2025-07-21 12:00">
+  <shop>
+    <name>WonderKids</name>
+    <company>Школа английского языка WonderKids</company>
+    <url>https://wonderkids.academy</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Курсы английского</category>
+    </categories>
+    <offers>
+      <offer id="001">
+        <url>https://wonderkids.academy/english-for-teens</url>
+        <price>15000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://files.reg.solutions/88faddce-e5b3-4756-b5c6-6bd71e896f18/images/5fd79f64-3000-4366-88f8-b21380a873f5-cursos-de-ingles-wonderkids.png</picture>
+        <name>Английский для подростков</name>
+        <description>Курс английского языка для подростков. Подготовка к ОГЭ и ЕГЭ. У м. Озерки и Просвещения.</description>
+        <param name="Формат">Очно</param>
+        <param name="Уровень">B1-B2</param>
+      </offer>
+      <offer id="002">
+        <url>https://wonderkids.academy/ielts-prep</url>
+        <price>22000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://files.reg.solutions/88faddce-e5b3-4756-b5c6-6bd71e896f18/images/5fd79f64-3000-4366-88f8-b21380a873f5-cursos-de-ingles-wonderkids.png</picture>
+        <name>Подготовка к IELTS</name>
+        <description>Интенсивный курс подготовки к международному экзамену IELTS. Преподаватели с опытом подготовки к экзамену.</description>
+        <param name="Формат">Онлайн</param>
+        <param name="Продолжительность">2 месяца</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
